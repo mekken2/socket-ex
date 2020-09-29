@@ -1,2 +1,2 @@
 # socket-ex
-An idiot's first work related to Sockets
+An idiot's first work on Sockets
