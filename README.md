@@ -13,4 +13,4 @@ Run as many client terminals as you would like to send messages to the server as
 
 ## About Server
 * It will start at Port 5050 by deafult, you may assign different port by editing it in server.py
-* Server will retrieve the default internet ip address on its own, you may change it to local(127.1.0.0) if you like.
+* Server will retrieve the default internet ip address on its own, you may change it to local(127.0.0.1) if you like.
